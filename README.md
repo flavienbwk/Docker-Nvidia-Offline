@@ -71,4 +71,5 @@ Run the following to see if your graphic card is seen by your containers :
 ```
 docker run --runtime=nvidia --rm nvidia/cuda nvidia-smi
 ```
-<img src="https://speeload.com/uploads/E0xsqERO7Y.png"/>
+
+<img src="https://speeload.com/uploads/wDjHwuFeUf.png"/>
